@@ -1,0 +1,257 @@
+Vehicle_ID,Vehicle_Type,Wheeler_Type,Model_Name,Battery_Capacity_kWh,Range_km,Top_Speed_kmph,Price_INR_Lakhs
+1,Car,4-Wheeler,VoltCar X,116.4,3285,111,46.07
+2,Bike,2-Wheeler,NeoRide Z,74.5,1820,124,26.14
+3,Scooter,2-Wheeler,GreenGo S2,60.4,453,122,18.19
+4,Truck,4-Wheeler,PowerHaul X,28.8,246,113,9.68
+5,Scooter,2-Wheeler,E-Wave X,27,717,163,9.97
+6,Scooter,2-Wheeler,E-Wave X,26.5,300,178,10.1
+7,Car,4-Wheeler,Urban EV Pro,147.2,1755,76,47.1
+8,Bike,2-Wheeler,NeoRide Z,38.5,953,156,15.3
+9,Bike,2-Wheeler,E-Bike Turbo,70.1,1593,158,27.53
+10,Car,4-Wheeler,Urban EV Pro,60.3,1066,94,21.96
+11,Truck,4-Wheeler,HaulPro EV,125.2,2631,96,40.46
+12,Scooter,2-Wheeler,VoltScoot E2,75.1,640,166,28.86
+13,Car,4-Wheeler,VoltCar X,20.4,145,118,6.53
+14,Car,4-Wheeler,E-Motion Z,123,3046,96,45.2
+15,Bike,2-Wheeler,NeoRide Z,129.5,2006,179,48.52
+16,Car,4-Wheeler,Urban EV Pro,105.2,1201,73,32.08
+17,Truck,4-Wheeler,E-Truck 400,75.9,1303,177,25.31
+18,Truck,4-Wheeler,E-Truck 400,28.3,89,130,10.41
+19,Bike,2-Wheeler,NeoRide Z,99,2056,135,35.99
+20,Bike,2-Wheeler,NeoRide Z,124.7,1776,124,48.18
+21,Car,4-Wheeler,ElectraDrive,7,175,142,2.22
+22,Scooter,2-Wheeler,GreenGo S2,101.5,575,125,39.15
+23,Truck,4-Wheeler,PowerHaul X,9,153,104,3.49
+24,Scooter,2-Wheeler,E-Wave X,120.3,952,132,44.41
+25,Car,4-Wheeler,Urban EV Pro,63.6,1805,131,25.26
+26,Bike,2-Wheeler,VoltBike X2,25.7,237,99,9.38
+27,Truck,4-Wheeler,E-Truck 400,52.3,411,174,16.85
+28,Bike,2-Wheeler,VoltBike X2,71.9,1438,85,22.23
+29,Bike,2-Wheeler,VoltBike X2,37.4,901,78,13.46
+30,Scooter,2-Wheeler,RideON Plus,62.8,1331,179,20.02
+31,Truck,4-Wheeler,PowerHaul X,10.1,106,167,3.54
+32,Truck,4-Wheeler,HaulPro EV,124.6,1940,151,40.73
+33,Truck,4-Wheeler,MegaTruck Z,118.5,3151,130,38.37
+34,Scooter,2-Wheeler,EcoRide S1,11.6,84,99,3.75
+35,Car,4-Wheeler,VoltCar X,56.8,1262,165,20.61
+36,Bike,2-Wheeler,NeoRide Z,31.9,130,153,11.53
+37,Bike,2-Wheeler,Zoom EV,21.8,78,141,7.57
+38,Scooter,2-Wheeler,E-Wave X,119.3,2801,104,43.42
+39,Car,4-Wheeler,ElectraDrive,143.3,4208,145,53.74
+40,Scooter,2-Wheeler,VoltScoot E2,31.8,823,67,9.55
+41,Car,4-Wheeler,Urban EV Pro,103.3,2297,75,38.46
+42,Scooter,2-Wheeler,E-Wave X,26.2,668,84,8.76
+43,Truck,4-Wheeler,HaulPro EV,99.6,1683,117,38.18
+44,Truck,4-Wheeler,CargoMax E8,137.1,1554,165,47.74
+45,Scooter,2-Wheeler,RideON Plus,112.4,979,178,42.12
+46,Scooter,2-Wheeler,VoltScoot E2,141.9,1271,77,51.29
+47,Bike,2-Wheeler,AmpRide 500,126.2,2414,178,38.39
+48,Truck,4-Wheeler,CargoMax E8,94.2,1529,73,30.8
+49,Car,4-Wheeler,Spark EV,113.7,1342,109,38.38
+50,Bike,2-Wheeler,VoltBike X2,65.5,672,146,25.24
+51,Bike,2-Wheeler,VoltBike X2,93.9,2590,168,36.02
+52,Car,4-Wheeler,Spark EV,117.6,1035,115,44.11
+53,Bike,2-Wheeler,E-Bike Turbo,74.7,1575,101,22.77
+54,Bike,2-Wheeler,Zoom EV,126.5,2750,152,40.72
+55,Bike,2-Wheeler,Zoom EV,141.6,4070,163,54.93
+56,Car,4-Wheeler,Urban EV Pro,18.3,84,126,6.47
+57,Bike,2-Wheeler,AmpRide 500,55.8,271,101,20.67
+58,Scooter,2-Wheeler,GreenGo S2,105.4,554,164,35.5
+59,Bike,2-Wheeler,E-Bike Turbo,42.3,565,74,16.65
+60,Scooter,2-Wheeler,EcoRide S1,132.7,3847,173,42.94
+61,Truck,4-Wheeler,MegaTruck Z,131.6,2544,178,44.05
+62,Car,4-Wheeler,E-Motion Z,134.3,572,159,48.6
+63,Scooter,2-Wheeler,GreenGo S2,51.2,1065,68,19.05
+64,Scooter,2-Wheeler,EcoRide S1,29.3,176,137,11.09
+65,Bike,2-Wheeler,VoltBike X2,31.1,376,106,9.98
+66,Scooter,2-Wheeler,E-Wave X,108,921,155,37.84
+67,Truck,4-Wheeler,MegaTruck Z,36.1,155,174,13.5
+68,Truck,4-Wheeler,HaulPro EV,137.7,3570,92,42.7
+69,Bike,2-Wheeler,AmpRide 500,75.9,937,143,27.42
+70,Scooter,2-Wheeler,RideON Plus,46.2,160,152,16.8
+71,Car,4-Wheeler,ElectraDrive,34.7,555,179,11.25
+72,Scooter,2-Wheeler,GreenGo S2,98.1,1836,91,30.1
+73,Bike,2-Wheeler,NeoRide Z,80.1,276,143,30.29
+74,Truck,4-Wheeler,MegaTruck Z,61.1,1108,135,19.57
+75,Bike,2-Wheeler,Zoom EV,133.6,1707,76,50.78
+76,Scooter,2-Wheeler,GreenGo S2,65.4,1120,95,25.44
+77,Car,4-Wheeler,VoltCar X,111,2468,61,38.03
+78,Car,4-Wheeler,Spark EV,145.6,1355,99,48.67
+79,Car,4-Wheeler,Spark EV,61.4,1171,143,22.6
+80,Truck,4-Wheeler,PowerHaul X,120.2,2399,106,37.58
+81,Scooter,2-Wheeler,E-Wave X,88.1,460,175,27.88
+82,Scooter,2-Wheeler,E-Wave X,50.4,687,63,17.94
+83,Car,4-Wheeler,E-Motion Z,26.8,85,62,9.15
+84,Scooter,2-Wheeler,EcoRide S1,71.6,1284,130,26.57
+85,Bike,2-Wheeler,NeoRide Z,56,1654,70,21.11
+86,Bike,2-Wheeler,AmpRide 500,96.2,2861,123,38.02
+87,Car,4-Wheeler,E-Motion Z,139.4,3375,161,52.74
+88,Bike,2-Wheeler,VoltBike X2,40.1,968,114,15.95
+89,Car,4-Wheeler,Spark EV,60.7,495,159,18.99
+90,Car,4-Wheeler,Urban EV Pro,77.1,1486,177,29.99
+91,Truck,4-Wheeler,PowerHaul X,5.3,69,107,2.08
+92,Car,4-Wheeler,ElectraDrive,2.2,55,69,0.7
+93,Car,4-Wheeler,Spark EV,42.3,745,146,14.98
+94,Truck,4-Wheeler,CargoMax E8,18.3,399,98,6.68
+95,Bike,2-Wheeler,Zoom EV,56.4,234,71,20.31
+96,Car,4-Wheeler,VoltCar X,89.4,2023,78,32.43
+97,Scooter,2-Wheeler,GreenGo S2,140.7,3330,95,45.97
+98,Car,4-Wheeler,VoltCar X,70,595,81,26.23
+99,Scooter,2-Wheeler,E-Wave X,98.8,446,138,39.45
+100,Scooter,2-Wheeler,GreenGo S2,59.4,1089,134,17.93
+101,Car,4-Wheeler,VoltCar X,138.5,634,60,42.57
+102,Scooter,2-Wheeler,GreenGo S2,82.4,710,169,32.66
+103,Bike,2-Wheeler,AmpRide 500,98.8,2939,154,37.95
+104,Bike,2-Wheeler,VoltBike X2,103.9,456,70,40.79
+105,Bike,2-Wheeler,NeoRide Z,6.7,90,113,2.46
+106,Bike,2-Wheeler,NeoRide Z,62.9,1853,113,20.05
+107,Bike,2-Wheeler,NeoRide Z,87.6,1182,170,28.55
+108,Bike,2-Wheeler,VoltBike X2,15.3,124,128,5.92
+109,Bike,2-Wheeler,AmpRide 500,51.7,1273,153,18.6
+110,Bike,2-Wheeler,E-Bike Turbo,68.7,1176,103,22.7
+111,Scooter,2-Wheeler,EcoRide S1,59.6,288,139,22.8
+112,Car,4-Wheeler,VoltCar X,138.6,1254,67,43.55
+113,Truck,4-Wheeler,MegaTruck Z,18.8,107,80,6.04
+114,Truck,4-Wheeler,MegaTruck Z,8,237,96,2.7
+115,Scooter,2-Wheeler,RideON Plus,28.1,677,120,8.57
+116,Scooter,2-Wheeler,RideON Plus,146.8,2970,63,46.48
+117,Bike,2-Wheeler,Zoom EV,136.9,2527,132,51.21
+118,Scooter,2-Wheeler,E-Wave X,128,3416,78,40.09
+119,Scooter,2-Wheeler,EcoRide S1,85.4,1868,117,28.45
+120,Bike,2-Wheeler,Zoom EV,121,2210,150,40.37
+121,Scooter,2-Wheeler,GreenGo S2,37.9,307,81,14.05
+122,Scooter,2-Wheeler,VoltScoot E2,137.8,1426,157,44.48
+123,Scooter,2-Wheeler,RideON Plus,16.7,405,94,6.27
+124,Bike,2-Wheeler,Zoom EV,60.7,1615,169,21.57
+125,Truck,4-Wheeler,MegaTruck Z,62,1242,159,23.73
+126,Bike,2-Wheeler,AmpRide 500,51.2,806,124,16.85
+127,Bike,2-Wheeler,NeoRide Z,62.6,1820,133,19.78
+128,Car,4-Wheeler,Spark EV,127.8,3567,90,40.04
+129,Truck,4-Wheeler,PowerHaul X,101.3,2016,124,36.56
+130,Bike,2-Wheeler,VoltBike X2,90.9,2026,161,33.42
+131,Truck,4-Wheeler,CargoMax E8,122.2,2573,69,40.62
+132,Scooter,2-Wheeler,GreenGo S2,80.1,1474,97,32.01
+133,Bike,2-Wheeler,NeoRide Z,74.6,1920,122,26.11
+134,Scooter,2-Wheeler,VoltScoot E2,35.5,386,71,11.74
+135,Scooter,2-Wheeler,RideON Plus,102.3,407,154,33.16
+136,Scooter,2-Wheeler,VoltScoot E2,127.9,2394,121,50.79
+137,Truck,4-Wheeler,CargoMax E8,107.7,2011,107,42.09
+138,Car,4-Wheeler,VoltCar X,130.6,3195,118,47.53
+139,Car,4-Wheeler,VoltCar X,140.6,1159,89,55.33
+140,Truck,4-Wheeler,CargoMax E8,147.2,1174,110,56.8
+141,Truck,4-Wheeler,MegaTruck Z,148.3,4210,125,53.93
+142,Car,4-Wheeler,VoltCar X,54.5,1614,147,17.52
+143,Truck,4-Wheeler,HaulPro EV,5.8,45,169,1.87
+144,Bike,2-Wheeler,AmpRide 500,27.7,247,125,9.84
+145,Scooter,2-Wheeler,RideON Plus,135.7,1877,180,49.39
+146,Car,4-Wheeler,ElectraDrive,104.9,2185,97,35.13
+147,Bike,2-Wheeler,AmpRide 500,34.3,417,125,12.9
+148,Scooter,2-Wheeler,E-Wave X,12.7,68,140,3.82
+149,Truck,4-Wheeler,PowerHaul X,35.1,984,144,12.27
+150,Bike,2-Wheeler,NeoRide Z,68.7,1518,178,23.49
+151,Truck,4-Wheeler,CargoMax E8,44.1,299,121,13.71
+152,Truck,4-Wheeler,MegaTruck Z,142.6,3579,176,47.49
+153,Car,4-Wheeler,E-Motion Z,45.4,452,146,16.2
+154,Bike,2-Wheeler,NeoRide Z,84.8,800,156,30.54
+155,Bike,2-Wheeler,VoltBike X2,137.3,3537,156,42.57
+156,Scooter,2-Wheeler,GreenGo S2,29.3,429,145,10.62
+157,Car,4-Wheeler,Spark EV,112.6,2990,97,37.54
+158,Bike,2-Wheeler,AmpRide 500,46.6,142,139,14.05
+159,Truck,4-Wheeler,HaulPro EV,140.7,3502,136,55.55
+160,Scooter,2-Wheeler,GreenGo S2,34.4,620,109,10.48
+161,Car,4-Wheeler,Spark EV,49,461,101,15.54
+162,Car,4-Wheeler,VoltCar X,104.7,2154,144,36.87
+163,Car,4-Wheeler,ElectraDrive,67.6,1122,107,21.06
+164,Car,4-Wheeler,Urban EV Pro,20.9,425,162,7.71
+165,Bike,2-Wheeler,AmpRide 500,24.7,621,68,9.38
+166,Truck,4-Wheeler,E-Truck 400,134.3,1618,93,46.17
+167,Bike,2-Wheeler,NeoRide Z,104,1844,169,36.87
+168,Truck,4-Wheeler,E-Truck 400,10,84,129,3.93
+169,Bike,2-Wheeler,E-Bike Turbo,13.6,315,97,4.75
+170,Truck,4-Wheeler,CargoMax E8,8.1,90,150,3.23
+171,Bike,2-Wheeler,Zoom EV,84.1,757,163,31.68
+172,Truck,4-Wheeler,CargoMax E8,94.9,2010,113,28.89
+173,Scooter,2-Wheeler,VoltScoot E2,137.4,658,119,42.4
+174,Truck,4-Wheeler,MegaTruck Z,60.4,1203,65,22.87
+175,Car,4-Wheeler,Urban EV Pro,140.7,4084,170,44.16
+176,Truck,4-Wheeler,CargoMax E8,111.3,2399,79,43.12
+177,Truck,4-Wheeler,PowerHaul X,64.7,1777,92,24.59
+178,Car,4-Wheeler,Spark EV,59.6,1696,172,18.89
+179,Car,4-Wheeler,Urban EV Pro,111,1122,65,36.01
+180,Scooter,2-Wheeler,RideON Plus,116.8,3412,73,42.13
+181,Bike,2-Wheeler,AmpRide 500,11.5,235,104,4.25
+182,Bike,2-Wheeler,AmpRide 500,142.4,1068,142,43.31
+183,Scooter,2-Wheeler,VoltScoot E2,61,891,167,20.99
+184,Bike,2-Wheeler,Zoom EV,149,2433,178,49.26
+185,Truck,4-Wheeler,HaulPro EV,93.9,1378,119,37
+186,Bike,2-Wheeler,VoltBike X2,114.3,1659,106,42.53
+187,Car,4-Wheeler,E-Motion Z,120.7,1943,83,39.38
+188,Truck,4-Wheeler,CargoMax E8,93.9,2044,144,28.25
+189,Bike,2-Wheeler,Zoom EV,61.5,1366,102,23.23
+190,Car,4-Wheeler,VoltCar X,115.6,1204,80,36.18
+191,Scooter,2-Wheeler,EcoRide S1,126.1,1666,164,40.05
+192,Car,4-Wheeler,Spark EV,102.4,2432,151,33.98
+193,Car,4-Wheeler,E-Motion Z,109.8,3211,73,36.61
+194,Car,4-Wheeler,E-Motion Z,125.2,1693,174,42.21
+195,Bike,2-Wheeler,VoltBike X2,82.3,696,152,31.38
+196,Scooter,2-Wheeler,RideON Plus,54.8,693,154,18.17
+197,Truck,4-Wheeler,PowerHaul X,97.9,2906,130,34.89
+198,Car,4-Wheeler,ElectraDrive,89.4,865,127,28.82
+199,Truck,4-Wheeler,PowerHaul X,17.1,286,138,5.45
+200,Car,4-Wheeler,Spark EV,134.6,1209,133,53.47
+201,Truck,4-Wheeler,HaulPro EV,52.4,337,74,19.76
+202,Scooter,2-Wheeler,E-Wave X,87,1946,161,34.23
+203,Scooter,2-Wheeler,EcoRide S1,69.1,361,97,24.81
+204,Truck,4-Wheeler,PowerHaul X,9.1,57,178,2.83
+205,Scooter,2-Wheeler,RideON Plus,53.7,598,64,18.57
+206,Car,4-Wheeler,Spark EV,65.4,660,73,22.02
+207,Car,4-Wheeler,VoltCar X,17.8,479,78,6.05
+208,Truck,4-Wheeler,MegaTruck Z,33.7,546,104,10.72
+209,Bike,2-Wheeler,NeoRide Z,116.3,2237,87,36.18
+210,Bike,2-Wheeler,VoltBike X2,24.5,521,119,8.34
+211,Truck,4-Wheeler,CargoMax E8,65.1,966,116,21.07
+212,Bike,2-Wheeler,AmpRide 500,48.3,586,143,16.91
+213,Scooter,2-Wheeler,GreenGo S2,43,327,124,14.22
+214,Bike,2-Wheeler,E-Bike Turbo,66.4,1120,89,25.79
+215,Scooter,2-Wheeler,E-Wave X,65.1,1468,78,22.48
+216,Scooter,2-Wheeler,GreenGo S2,105.4,1558,106,31.69
+217,Truck,4-Wheeler,MegaTruck Z,129.1,1093,152,46.86
+218,Scooter,2-Wheeler,RideON Plus,120.7,714,114,41.24
+219,Car,4-Wheeler,Spark EV,52.9,1431,115,20.84
+220,Bike,2-Wheeler,E-Bike Turbo,149.1,3852,108,51.77
+221,Car,4-Wheeler,Urban EV Pro,27.4,179,89,8.71
+222,Scooter,2-Wheeler,E-Wave X,15.3,251,116,5.06
+223,Scooter,2-Wheeler,VoltScoot E2,133.7,3371,176,43.67
+224,Car,4-Wheeler,Spark EV,119,3488,173,45.5
+225,Bike,2-Wheeler,NeoRide Z,137.2,1094,173,42.3
+226,Car,4-Wheeler,Urban EV Pro,135.5,591,95,47.07
+227,Car,4-Wheeler,ElectraDrive,116.1,743,152,37.08
+228,Truck,4-Wheeler,PowerHaul X,27,705,179,9.94
+229,Scooter,2-Wheeler,E-Wave X,99,322,79,33.95
+230,Car,4-Wheeler,ElectraDrive,84.6,1890,85,31.29
+231,Scooter,2-Wheeler,E-Wave X,90.3,1758,162,32.81
+232,Car,4-Wheeler,VoltCar X,19.2,284,98,6.34
+233,Car,4-Wheeler,VoltCar X,49.8,763,123,19.28
+234,Car,4-Wheeler,ElectraDrive,42.8,1122,86,13.03
+235,Bike,2-Wheeler,VoltBike X2,29,814,91,10.61
+236,Scooter,2-Wheeler,VoltScoot E2,113.8,2613,180,40.81
+237,Car,4-Wheeler,E-Motion Z,48.5,682,73,16.65
+238,Truck,4-Wheeler,PowerHaul X,139.4,2153,92,48.64
+239,Car,4-Wheeler,Urban EV Pro,146.1,968,92,46.2
+240,Bike,2-Wheeler,VoltBike X2,15.9,251,169,5.01
+241,Car,4-Wheeler,E-Motion Z,148.1,588,95,53.65
+242,Car,4-Wheeler,ElectraDrive,4.1,95,132,1.57
+243,Truck,4-Wheeler,PowerHaul X,14.8,248,97,5.3
+244,Scooter,2-Wheeler,EcoRide S1,69.7,1494,129,25.65
+245,Car,4-Wheeler,VoltCar X,36.4,772,75,11.1
+246,Bike,2-Wheeler,AmpRide 500,8.5,241,86,3.29
+247,Car,4-Wheeler,E-Motion Z,5.6,89,171,1.86
+248,Scooter,2-Wheeler,RideON Plus,32,883,113,12.61
+249,Bike,2-Wheeler,E-Bike Turbo,130.8,2051,127,42.04
+250,Bike,2-Wheeler,AmpRide 500,30.7,548,151,9.26
+251,Scooter,2-Wheeler,RideON Plus,132.7,1372,91,43.23
+252,Car,4-Wheeler,Urban EV Pro,47.2,1309,174,15.98
+253,Scooter,2-Wheeler,VoltScoot E2,28.6,752,166,8.82
+254,Car,4-Wheeler,Spark EV,130.4,1718,123,51.5
+255,Car,4-Wheeler,E-Motion Z,138.2,1725,150,42.27
+256,Bike,2-Wheeler,Zoom EV,148.5,635,121,57.03
